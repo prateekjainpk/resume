@@ -39,8 +39,7 @@ var insta_url = "https://www.instagram.com/_jain_prateek/";
 var github_url = "https://github.com/prateekjainpk";
 var hackerRank_url = "https://www.hackerrank.com/prateek_jain_/";
 var linkedin_url = "https://www.linkedin.com/in/prateek-jain-852295154/";
-var resume_url =
-  "https://www.dropbox.com/s/a7wo7m5hx8qwey0/Prateek%20Jain.pdf?dl=0";
+var resume_url = "https://www.dropbox.com/s/a7wo7m5hx8qwey0/Prateek%20Jain.pdf?dl=0";
 var website_url = "https://prateekjainpk.github.io/resume/";
 var medium_url = "https://medium.com/@_jain_prateek";
 var gmail_url = "https://www.prateekjainpk@gmail.com";
