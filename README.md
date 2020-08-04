@@ -1,3 +1,3 @@
 # Interactive-Resume
-Interactive Resume of Prateek Narang
-URL:  www.prateeknarang.com/resume
+Interactive Resume of Prateek Jain
+URL:  https://prateekjainpk.github.io/resume/
