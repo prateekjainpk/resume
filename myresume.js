@@ -67,7 +67,7 @@ function preload() {
   text = game.add.text(
     w / 2,
     h / 2,
-    "Welcome to Prateek Jain's Resume \n Loading...",
+    "Prateek Jain's Resume \n Loading...",
     {
       font: "80px Times New Roman",
       fill: "#ffffff",
