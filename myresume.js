@@ -67,12 +67,7 @@ function preload() {
   text = game.add.text(
     w / 2,
     h / 2,
-    "Prateek Jain's Resume \n Loading...",
-    {
-      font: "80px Times New Roman",
-      fill: "#ffffff",
-      align: "center",
-    }
+    "",
   );
   text.anchor.setTo(0.5, 0.5);
   game.load.image("download", "assets/download2.png");
